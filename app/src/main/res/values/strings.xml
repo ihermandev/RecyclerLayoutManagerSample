@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerLayoutManagerSample</string>
+    <string name="title_list">List</string>
+    <string name="title_card">Card</string>
+    <string name="title_grid">Grid</string>
+    <string name="title_flexbox">Flexbox</string>
+    <string name="foundation_date">Foundation date: %1$d</string>
+</resources>
